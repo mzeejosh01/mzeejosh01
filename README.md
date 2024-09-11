@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mzeejosh01
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Software Applications 
 - 📫 How to reach me akinjoshuaakinola@gmail.com
 
